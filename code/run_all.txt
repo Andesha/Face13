@@ -1,0 +1,11 @@
+python code/dropcol.py sub-s01/eeg/sub-s01_task-faceFO_events.tsv 
+python code/dropcol.py sub-s02/eeg/sub-s02_task-faceFO_events.tsv
+python code/dropcol.py sub-s03/eeg/sub-s03_task-faceFO_events.tsv
+python code/dropcol.py sub-s04/eeg/sub-s04_task-faceFO_events.tsv
+python code/dropcol.py sub-s05/eeg/sub-s05_task-faceFO_events.tsv
+python code/dropcol.py sub-s06/eeg/sub-s06_task-faceFO_events.tsv
+python code/dropcol.py sub-s07/eeg/sub-s07_task-faceFO_events.tsv
+python code/dropcol.py sub-s08/eeg/sub-s08_task-faceFO_events.tsv
+python code/dropcol.py sub-s09/eeg/sub-s09_task-faceFO_events.tsv
+python code/dropcol.py sub-s10/eeg/sub-s10_task-faceFO_events.tsv
+
